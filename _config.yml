@@ -1,0 +1,28 @@
+name: Kloon Vietnam
+favicon: null
+layout_spectrum: 0.41311614820733666
+typography_spectrum: 0.8175649174954742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21837777271866798
+  lightness: 0.47610667371191084
+  saturation: 0.9227330912835896
+  rhythmicContrast: 0.16876164264976978
+purpose: []
